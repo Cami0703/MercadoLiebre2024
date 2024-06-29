@@ -1,16 +1,15 @@
 
   {
-    "name": "grupo_3_coffeecode",
+    "name": "mercado-liebre",
     "version": "1.0.0",
-    "description": "---\r ## Descripción: COFFECODE",
+    "description": "---\r ## Descripción: PROYECTO INDIVIDUAL MERCADO LIEBRE",
     "main": "app.js",
     "scripts": {
-      "dev": "nodemon app.js",
-      "dev2": "node --watch app.js",
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
+"test": "nodemon app.js",
+"start": "node app.js"
+},
     "keywords": [],
-    "author": "",
+    "author": "Camila Diaz Caceres",
     "license": "ISC",
     "dependencies": {
       "express": "^4.19.2"
